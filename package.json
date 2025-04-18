@@ -1,0 +1,20 @@
+{
+  "name": "realautomation",
+  "version": "1.0.0",
+  "description": "An automation project for the Real World Live application.<br>\r Welcome to the Real Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinOG-21/RealAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinOG-21/RealAutomation/issues"
+  },
+  "homepage": "https://github.com/KevinOG-21/RealAutomation#readme"
+}
