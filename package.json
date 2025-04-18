@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/KevinOG-21/RealAutomation/issues"
   },
-  "homepage": "https://github.com/KevinOG-21/RealAutomation#readme"
+  "homepage": "https://github.com/KevinOG-21/RealAutomation#readme",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
+    "cypress": "^14.3.1"
+  }
 }
